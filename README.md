@@ -3,7 +3,7 @@
 
 ### A Frontend Developer
 
-- 🔭 I'm currently working on **a MERN Stack Developer**
+- 🔭 I'm currently working on **a Frontend Developer**
 
 - 🌱 I'm currently learning **Go lang and working in their GIn Framework**
 
