@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./banner.svg" alt="Sohaib Banner" width="100%" />
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -79,6 +81,7 @@ experience smoother, faster, and more intuitive.
 </table>
 
 </div>
+
 
 <br>
 
