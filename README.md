@@ -85,7 +85,7 @@ experience smoother, faster, and more intuitive.
 
 <br>
 
-- 🔭 I'm currently working as a **Frontend Developer**
+- 🔭 I'm currently working as a **Software Developer**
 - 🌱 I'm currently learning **Go and the Gin framework**
 - 👯 I'm looking to collaborate on **open source projects**
 - 🤝 I'm looking for help with **learning system design**
