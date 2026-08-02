@@ -48,20 +48,16 @@ I'm a Frontend Developer at **CapregSoft**, building fast, responsive, and user-
 
 <br>
 
-## Featured Projects
+## Activity Graph
 
-<!--
-Swap the placeholder descriptions below for real one-liners describing what
-each project does, and add live demo links where you have them.
--->
+<div align="center">
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **Portfolio** | Personal portfolio site showcasing projects and skills | JavaScript, CSS | [Live](https://sohaibshakeel.vercel.app/) · [Repo](https://github.com/sohaib-library/Portfolio-) |
-| **Book Store** | E-commerce style storefront for browsing and purchasing books | JavaScript | [Repo](https://github.com/sohaib-library/book-shop) |
-| **Chat App — Backend** | Backend service for a real-time chat application | Go | [Repo](https://github.com/sohaib-library/chatapp-backend) |
+![Sohaib's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sohaib-library&theme=react-dark&hide_border=true&area=true)
+
+</div>
 
 <br>
+
 
 ## GitHub Stats
 
